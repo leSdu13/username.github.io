@@ -1,1 +1,33 @@
-# username.github.io
+<script src="https://crxcr2.com/popin/latest/affstitial-min.js"></script>
+<script>
+var crakPopInParamsIframe = {
+  url: 'https://t.ajrkmx1.com/408652/8780/32499?bo=2779,2778,2777,2776,2775&po=6533&aff_sub5=SF_006OG000004lmDN&aff_sub4=AT_0016',
+  decryptUrl: false,
+  contentUrl: 'https://t.ajrkmx1.com/1/6072?source=testoffer&aff_id=1&transaction_id=postitial',
+  decryptContentUrl: false,
+  contentType: 'iframe',
+  width: '85%',
+  height: '85%',
+  timeout: false,
+  delayClose: 0,
+  clickStart: false,
+  closeIntent: false,
+  postitialBehavior: true,
+  closeButtonColor: '#000',
+  closeCrossColor: '#fff',
+  shadow: true,
+  shadowColor: '#000',
+  shadowOpacity: '.5',
+  shadeColor: '#111',
+  shadeOpacity: '0',
+  border: '1px',
+  borderColor: '#000',
+  borderRadius: '0px',
+  leadOut: true,
+  animation: 'slide',
+  direction: 'up',
+  verticalPosition: 'center',
+  horizontalPosition: 'center',
+  expireDays: 0.01
+};
+</script>
